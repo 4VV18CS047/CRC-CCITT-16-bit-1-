@@ -1,2 +1,2 @@
-# CRC-CCITT-16-bit-1-
+#Computer networks lab programs
 4VV18CS047 - GURUKIRAN D
